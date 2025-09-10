@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Large data files
+# The README should link to the Kaggle source instead
+data/
+
+# Large model files
+# The training scripts can be used to regenerate these
+models/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Plots folder
+plots/
